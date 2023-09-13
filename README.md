@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am a student studying artificial intelligence. I am interested in brain science, psychology, and health, so I want to develop innovative products that combine medical field and ai. ✨
 
 <!--
 **chohyerinn/chohyerinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
