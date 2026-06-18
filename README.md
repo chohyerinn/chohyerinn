@@ -67,6 +67,18 @@ I am currently shaping my portfolio around **AI applications that can be tested,
 
 ---
 
+## How I Document Projects
+
+For portfolio projects, I try to keep the development process traceable:
+
+- define the problem and target users first
+- break work into small issues or tasks
+- record experiments, metrics, and failure cases
+- explain technical decisions in README files or reports
+- keep demos runnable whenever possible
+
+---
+
 ## What I Value
 
 - Clear problem definition before modeling
