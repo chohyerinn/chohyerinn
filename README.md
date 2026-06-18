@@ -29,7 +29,7 @@ My current direction is **AI service development**: connecting models, data, API
 Recently, I have been working on projects and competitions around:
 
 - Korean NLP and LLM answer evaluation
-- RAG pipelines for grounded question answering
+- RAG pipelines with retrieval quality and answer evaluation
 - Speech-to-text and conversation assistance for accessibility
 - Practical ML experiments with clear metrics and documentation
 - Backend/API development for small but complete AI services
@@ -39,7 +39,7 @@ Recently, I have been working on projects and competitions around:
 ## Current Focus
 
 ```text
-LLM / RAG              Korean NLP evaluation     Speech AI / STT
+LLM / RAG evaluation   Korean NLP evaluation     Speech AI / STT
 AI service backend     Retrieval and reranking   Accessibility AI
 Experiment logging     Model evaluation          Product-minded AI
 ```
