@@ -43,18 +43,23 @@ LLM / RAG · AI Evaluation · Multimodal · Korean NLP
 ### Projects
 
 **[MUTON](https://github.com/Ai-pre/MUTON)** · **[MUTON-Android](https://github.com/chohyerinn/MUTON-Android)**
+
 청각장애인을 위한 실시간 멀티모달 대화 보조 시스템. 음성(Whisper)·표정(MediaPipe)·맥락(Qwen2.5-Omni)을 결합해 실시간 자막과 요약을 제공하고, 대화 기록을 날짜별로 관리.
 `Python` `FastAPI` `Qwen2.5-Omni` `Whisper` `Kotlin`
 
 **[certainty-inference](https://github.com/chohyerinn/certainty-inference)**
+
 NIKL/말평 확실성 추론 과제 리더보드 1위 (MSE −0.0757). KLUE-RoBERTa-large 다중 시드, 그리디 앙상블, 다항 캘리브레이션.
 `PyTorch` `Transformers` `Ensemble`
 
 **[filter-mcp-server](https://github.com/chohyerinn/filter-mcp-server)**
-Bloom·Counting Bloom·Cuckoo·SuRF 근사 필터를 동일한 MCP 인터페이스로 비교. 정확도·메모리·FPR 트레이드오프 분석.
+Bloom·Counting Bloom·Cuckoo·SuRF 
+
+근사 필터를 동일한 MCP 인터페이스로 비교. 정확도·메모리·FPR 트레이드오프 분석.
 `Python` `MCP`
 
 **[DataScience_HotelBooking](https://github.com/chohyerinn/DataScience_HotelBooking)**
+
 호텔 예약 취소 예측. 전처리·인코딩 32개 조합 교차검증, 최고 ROC-AUC 0.92 / F1 0.79. 로컬 데모 포함.
 `scikit-learn` `pandas` `Jupyter`
 
