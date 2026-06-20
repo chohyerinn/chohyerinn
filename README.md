@@ -1,26 +1,13 @@
-<h1 align="center">Chohyerin</h1>
+# 조혜린 (Cho Hyerin)
 
-<p align="center">
-  <b>AI Student · LLM / RAG · AI Evaluation · Multimodal</b><br/>
-  <i>사람에게 닿는 AI 서비스를 만듭니다.</i>
-</p>
+AI Student · 가천대학교 인공지능학과
+LLM / RAG · AI Evaluation · Multimodal · Korean NLP
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Gachon%20Univ.-Artificial%20Intelligence-00C2A8?style=flat-square&logo=googlescholar&logoColor=white" alt="Gachon AI"/>
-  <img src="https://komarev.com/ghpvc/?username=chohyerinn&style=flat-square&color=00C2A8&label=profile+views" alt="profile views"/>
-</p>
+📫 chohyerinn03@gmail.com
 
 ---
 
-### 🌱 About Me
-
-- 🔭 **관심 분야** — 한국어 NLP 평가, RAG 파이프라인, 음성·청각 접근성, 재현 가능한 ML 실험
-- 🛰️ **요즘 하는 일** — 멀티모달(음성+표정+맥락) 대화 보조, 근사 필터링 알고리즘 비교 연구
-- 📫 **Contact** — chohyerinn03@gmail.com
-
----
-
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -53,83 +40,41 @@
 
 ---
 
-### 📌 Featured Projects
+### Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🤟 [MUTON](https://github.com/Ai-pre/MUTON) · [Android](https://github.com/chohyerinn/MUTON-Android)
-청각장애인을 위한 **실시간 멀티모달 대화 보조** 시스템.
-음성(Whisper) + 표정(MediaPipe) + 맥락(Qwen2.5-Omni)을 결합해
-실시간 자막·감정·요약을 제공하고, **날짜별 대화 기록**을
-캘린더로 관리.
-<br/><br/>
+**[MUTON](https://github.com/Ai-pre/MUTON)** · **[MUTON-Android](https://github.com/chohyerinn/MUTON-Android)**
+청각장애인을 위한 실시간 멀티모달 대화 보조 시스템. 음성(Whisper)·표정(MediaPipe)·맥락(Qwen2.5-Omni)을 결합해 실시간 자막과 요약을 제공하고, 대화 기록을 날짜별로 관리.
 `Python` `FastAPI` `Qwen2.5-Omni` `Whisper` `Kotlin`
 
-</td>
-    <td width="50%" valign="top">
+**[certainty-inference](https://github.com/chohyerinn/certainty-inference)**
+NIKL/말평 확실성 추론 과제 리더보드 1위 (MSE −0.0757). KLUE-RoBERTa-large 다중 시드, 그리디 앙상블, 다항 캘리브레이션.
+`PyTorch` `Transformers` `Ensemble`
 
-#### 🏆 [certainty-inference](https://github.com/chohyerinn/certainty-inference)
-NIKL/말평 **확실성 추론 리더보드 1위** (MSE −0.0757).
-KLUE-RoBERTa-large 다중 시드 + 그리디 앙상블 + 다항 캘리브레이션.
-<br/><br/>
-`PyTorch` `Transformers` `Ensemble` `Calibration`
+**[filter-mcp-server](https://github.com/chohyerinn/filter-mcp-server)**
+Bloom·Counting Bloom·Cuckoo·SuRF 근사 필터를 동일한 MCP 인터페이스로 비교. 정확도·메모리·FPR 트레이드오프 분석.
+`Python` `MCP`
 
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-#### 🔍 [filter-mcp-server](https://github.com/chohyerinn/filter-mcp-server)
-Bloom · Counting Bloom · Cuckoo · SuRF **근사 필터 비교**를
-동일한 MCP 도구 인터페이스로 실험. 정확도·메모리·FPR 트레이드오프 분석.
-<br/><br/>
-`Python` `MCP` `Data Structures`
-
-</td>
-    <td width="50%" valign="top">
-
-#### 🏨 [DataScience_HotelBooking](https://github.com/chohyerinn/DataScience_HotelBooking)
-호텔 예약 취소 예측. 전처리·인코딩 **32개 조합 교차검증**.
-Best: ROC-AUC 0.92 · F1 0.79 + 로컬 데모 제공.
-<br/><br/>
+**[DataScience_HotelBooking](https://github.com/chohyerinn/DataScience_HotelBooking)**
+호텔 예약 취소 예측. 전처리·인코딩 32개 조합 교차검증, 최고 ROC-AUC 0.92 / F1 0.79. 로컬 데모 포함.
 `scikit-learn` `pandas` `Jupyter`
-
-</td>
-  </tr>
-</table>
 
 ---
 
-### 🤟 MUTON in Action
+### MUTON
 
-<p align="center">
+<p>
   <img src="assets/muton-login.png"  width="18%" alt="login"/>
   <img src="assets/muton-main.png"   width="18%" alt="main"/>
   <img src="assets/muton-camera.png" width="18%" alt="camera"/>
   <img src="assets/muton-record.png" width="18%" alt="record"/>
   <img src="assets/muton-detail.png" width="18%" alt="record detail"/>
 </p>
-<p align="center">
-  <sub>로그인 → 실시간 대화 보조 → 카메라(표정 분석) → 날짜별 대화 기록 → 요약 상세</sub>
-</p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chohyerinn&show_icons=true&theme=transparent&hide_border=true&title_color=00C2A8&icon_color=00C2A8" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohyerinn&layout=compact&theme=transparent&hide_border=true&title_color=00C2A8&langs_count=8" alt="top langs" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chohyerinn&theme=transparent&hide_border=true&ring=00C2A8&fire=00C2A8&currStreakLabel=00C2A8" alt="streak"/>
-</p>
-
----
-
-<p align="center">
-  <i>✨ 기술이 누군가의 대화를 잇는 일에 관심이 많습니다. 함께 만들어요! ✨</i>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chohyerinn&show_icons=true&theme=transparent&hide_border=true&title_color=00C2A8&icon_color=00C2A8" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohyerinn&layout=compact&theme=transparent&hide_border=true&title_color=00C2A8&langs_count=8" alt="top langs" height="160"/>
 </p>
