@@ -66,18 +66,6 @@ KLUE-RoBERTa-large 다중 시드, 그리디 앙상블, 다항 캘리브레이션
 
 ---
 
-### MUTON
-
-<p>
-  <img src="assets/muton-login.png"  width="18%" alt="login"/>
-  <img src="assets/muton-main.png"   width="18%" alt="main"/>
-  <img src="assets/muton-camera.png" width="18%" alt="camera"/>
-  <img src="assets/muton-record.png" width="18%" alt="record"/>
-  <img src="assets/muton-detail.png" width="18%" alt="record detail"/>
-</p>
-
----
-
 ### GitHub Stats
 
 <p>
