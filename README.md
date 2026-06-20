@@ -60,13 +60,19 @@ KLUE-RoBERTa-large 다중 시드, 그리디 앙상블, 다항 캘리브레이션
 Bloom·Counting Bloom·Cuckoo·SuRF 근사 필터를 동일한 MCP 인터페이스로 노출해 정확도·메모리·FPR 트레이드오프를 실험.
 `Python` `MCP` `Data Structures`
 
-<details>
-<summary>그 외 작업</summary>
+**[MUTON](https://github.com/Ai-pre/MUTON)** · **[MUTON-Android](https://github.com/chohyerinn/MUTON-Android)** — 청각장애인용 실시간 멀티모달 대화 보조 시스템. 음성(Whisper)·표정(MediaPipe)·맥락(Qwen2.5-Omni) 결합, FastAPI 백엔드 + 안드로이드 앱 end-to-end.
+  `Whisper` `MediaPipe` `FastAPI` `Android`
 
-- **[MUTON](https://github.com/Ai-pre/MUTON)** · **[MUTON-Android](https://github.com/chohyerinn/MUTON-Android)** — 청각장애인용 실시간 멀티모달 대화 보조 시스템. 음성(Whisper)·표정(MediaPipe)·맥락(Qwen2.5-Omni) 결합, FastAPI 백엔드 + 안드로이드 앱 end-to-end.
-- **[DataScience_HotelBooking](https://github.com/chohyerinn/DataScience_HotelBooking)** — 호텔 예약 취소 예측, 전처리·인코딩 32개 조합 교차검증 (최고 ROC-AUC 0.92).
+**[DataScience_HotelBooking](https://github.com/chohyerinn/DataScience_HotelBooking)** — 호텔 예약 취소 예측, 전처리·인코딩 32개 조합 교차검증 (최고 ROC-AUC 0.92).
+  `Python` `pandas` `scikit-learn`
 
-</details>
+
+---
+
+### 오픈소스 기여
+
+**[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/8399)** — Data Science Tools 카테고리에 filter-mcp-server 등록 (리뷰 진행 중)
+Glama 품질 검증(빌드·MCP introspection·라이선스)을 통과시키고 점수 배지를 추가해 등재 기준을 충족.
 
 ---
 
