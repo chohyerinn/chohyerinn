@@ -1,8 +1,8 @@
-<h1 align="center">안녕하세요, 조혜린입니다 👋</h1>
+<h1 align="center">Chohyerin</h1>
 
 <p align="center">
   <b>AI Student · LLM / RAG · AI Evaluation · Multimodal</b><br/>
-  <i>이론 속 모델이 아니라, 사람에게 닿는 AI 서비스를 만듭니다.</i>
+  <i>사람에게 닿는 AI 서비스를 만듭니다.</i>
 </p>
 
 <p align="center">
