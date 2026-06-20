@@ -56,7 +56,7 @@ PII(이메일·전화·주문번호 등) 탐지 후 외부 AI 전달 차단, 카
 KLUE-RoBERTa-large 다중 시드, 그리디 앙상블, 다항 캘리브레이션으로 평가 점수 최적화.
 `PyTorch` `Transformers` `Ensemble`
 
-**[MUTON](https://github.com/Ai-pre/MUTON)** · **[MUTON-Android](https://github.com/chohyerinn/MUTON-Android)** — 청각장애인용 실시간 멀티모달 대화 보조 시스템. 음성(Whisper)·표정(MediaPipe)·맥락(Qwen2.5-Omni) 결합, FastAPI 백엔드 + 안드로이드 앱 end-to-end.
+**[MUTON](https://github.com/Ai-pre/MUTON)** · **[MUTON-Android](https://github.com/chohyerinn/MUTON-Android)** — 청각장애인용 실시간 옴니모달 대화 보조 시스템. 음성(Whisper)·표정(MediaPipe)·맥락(Qwen2.5-Omni) 결합, FastAPI 백엔드 + 안드로이드 앱 end-to-end.
   `Whisper` `MediaPipe` `FastAPI` `Android`
 
 ---
