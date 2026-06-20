@@ -14,22 +14,6 @@
 
 ### 🌱 About Me
 
-```python
-class HyerinCho:
-    def __init__(self):
-        self.role = "AI Student @ Gachon University"
-        self.major = "Department of Artificial Intelligence"
-        self.focus = ["LLM", "RAG", "AI Evaluation", "Korean NLP", "Multimodal"]
-        self.belief = "이기는 모델보다, 쓰이는 서비스를 만든다."
-
-    def how_i_work(self):
-        return [
-            "리더보드 1등을 만든 건 화려한 모델이 아니라 꼼꼼한 앙상블·캘리브레이션",
-            "전처리 32개 조합을 끝까지 비교하는 실험 설계",
-            "데모까지 돌아가야 비로소 '완성'이라고 부른다",
-        ]
-```
-
 - 🔭 **관심 분야** — 한국어 NLP 평가, RAG 파이프라인, 음성·청각 접근성, 재현 가능한 ML 실험
 - 🛰️ **요즘 하는 일** — 멀티모달(음성+표정+맥락) 대화 보조, 근사 필터링 알고리즘 비교 연구
 - 📫 **Contact** — chohyerinn03@gmail.com
