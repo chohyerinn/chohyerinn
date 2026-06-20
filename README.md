@@ -56,16 +56,8 @@ PII(이메일·전화·주문번호 등) 탐지 후 외부 AI 전달 차단, 카
 KLUE-RoBERTa-large 다중 시드, 그리디 앙상블, 다항 캘리브레이션으로 평가 점수 최적화.
 `PyTorch` `Transformers` `Ensemble`
 
-**[filter-mcp-server](https://github.com/chohyerinn/filter-mcp-server)** — AI 에이전트용 MCP 도구 + 자료구조 비교
-Bloom·Counting Bloom·Cuckoo·SuRF 근사 필터를 동일한 MCP 인터페이스로 노출해 정확도·메모리·FPR 트레이드오프를 실험.
-`Python` `MCP` `Data Structures`
-
 **[MUTON](https://github.com/Ai-pre/MUTON)** · **[MUTON-Android](https://github.com/chohyerinn/MUTON-Android)** — 청각장애인용 실시간 멀티모달 대화 보조 시스템. 음성(Whisper)·표정(MediaPipe)·맥락(Qwen2.5-Omni) 결합, FastAPI 백엔드 + 안드로이드 앱 end-to-end.
   `Whisper` `MediaPipe` `FastAPI` `Android`
-
-**[DataScience_HotelBooking](https://github.com/chohyerinn/DataScience_HotelBooking)** — 호텔 예약 취소 예측, 전처리·인코딩 32개 조합 교차검증 (최고 ROC-AUC 0.92).
-  `Python` `pandas` `scikit-learn`
-
 
 ---
 
