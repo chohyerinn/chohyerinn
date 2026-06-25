@@ -33,7 +33,7 @@ AI Student · 가천대학교 인공지능학과
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-fff8dc?style=flat-square&logo=fastapi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-v?style=flat-square&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-fff8dc?style=flat-square&logo=postgresql&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redis-fff8dc?style=flat-square&logo=redis&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-fff8dc?style=flat-square&logo=docker&logoColor=black"/>
   <img src="https://img.shields.io/badge/Nginx-fff8dc?style=flat-square&logo=nginx&logoColor=black"/>
