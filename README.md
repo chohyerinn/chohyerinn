@@ -63,5 +63,5 @@ KLUE-RoBERTa-large 다중 시드, 그리디 앙상블, 다항 캘리브레이션
 
 ### 오픈소스 기여
 
-**[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/8399)** — Data Science Tools 카테고리에 filter-mcp-server 등록 (리뷰 진행 중)
+**[punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers/pull/8399)** — Data Science Tools 카테고리에 filter-mcp-server 등재 완료
 Glama 품질 검증(빌드·MCP introspection·라이선스)을 통과시키고 점수 배지를 추가해 등재 기준을 충족.
