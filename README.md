@@ -56,8 +56,3 @@ NIKL certainty inference task solution using KLUE-RoBERTa-large, multi-seed infe
 **[punkpeye/awesome-mcp-servers#8399](https://github.com/punkpeye/awesome-mcp-servers/pull/8399)**  
 Added `filter-mcp-server` to the Data Science Tools category after passing build, MCP introspection, license, and quality checks.
 
-### Notes To Myself
-
-> Build things that can be checked.
->
-> Keep the story small enough to explain, and real enough to defend.
