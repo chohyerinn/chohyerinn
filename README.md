@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&duration=1&pause=100000&color=D58BB7&center=true&vCenter=true&width=720&lines=Hi,+I'm+Hyerin.+I+build+practical+AI+services." alt="Hi, I'm Hyerin." />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&duration=1&pause=100000&color=8AA7D6&center=true&vCenter=true&width=760&lines=LLM/RAG+%7C+AI+Evaluation+%7C+Accessibility+AI+%7C+Verification" alt="Current focus" />
-  <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24" height="24" alt="wave" />
-    <strong>Open to AI service internships and project collaboration.</strong>
-  </p>
+  
   <p>
     <code>Gachon University · AI</code>
     <code>Seoul / Remote</code>
