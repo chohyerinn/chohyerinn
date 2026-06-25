@@ -12,32 +12,32 @@ AI Student · 가천대학교 인공지능학과
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0D47A1?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-1565C0?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-1976D2?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell-1E88E5?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-fff8dc?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-fff8dc?style=flat-square&logo=kotlin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-fff8dc?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Shell-fff8dc?style=flat-square&logo=gnubash&logoColor=black"/>
 </p>
 
 **ML / AI**
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-0D47A1?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-1565C0?style=flat-square&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-1976D2?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1E88E5?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-2196F3?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MediaPipe-1565C0?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-fff8dc?style=flat-square&logo=pytorch&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-fff8dc?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Whisper-fff8dc?style=flat-square&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-fff8dc?style=flat-square&logo=scikitlearn&logoColor=black"/>
+  <img src="https://img.shields.io/badge/pandas-fff8dc?style=flat-square&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MediaPipe-fff8dc?style=flat-square&logo=google&logoColor=black"/>
 </p>
 
 **Serving / Infra**
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-0D47A1?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1565C0?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-1976D2?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-1E88E5?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-2196F3?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-1565C0?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-fff8dc?style=flat-square&logo=fastapi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-v?style=flat-square&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-fff8dc?style=flat-square&logo=redis&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-fff8dc?style=flat-square&logo=docker&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-fff8dc?style=flat-square&logo=nginx&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android-fff8dc?style=flat-square&logo=android&logoColor=black"/>
 </p>
 
 ---
