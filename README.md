@@ -32,6 +32,15 @@
   </a>
 </p>
 
+### Focus
+
+- LLM/RAG systems that can be evaluated, not just demoed
+- Coding-agent and RAG evaluation harnesses
+- Privacy-aware AI workflows
+- Small projects with clear failure cases, limitations, and reports
+
+Pinned repositories below are the main portfolio projects.
+
 ### Open Source
 
 **[punkpeye/awesome-mcp-servers#8399](https://github.com/punkpeye/awesome-mcp-servers/pull/8399)**  
