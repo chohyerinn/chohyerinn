@@ -21,6 +21,9 @@
   <a href="mailto:chohyerinn03@gmail.com">
     <img src="https://img.shields.io/badge/Email-chohyerinn03%40gmail.com-F4A7B9?style=flat-square&logo=gmail&logoColor=white" alt="email" />
   </a>
+  <a href="https://www.linkedin.com/in/hyerin-cho-659b20399/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hyerin%20Cho-D58BB7?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
   <a href="https://github.com/chohyerinn">
     <img src="https://img.shields.io/badge/GitHub-chohyerinn-9BB7D4?style=flat-square&logo=github&logoColor=white" alt="github" />
   </a>
