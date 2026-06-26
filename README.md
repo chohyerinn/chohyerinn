@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/GitHub-chohyerinn-9BB7D4?style=flat-square&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://github.com/chohyerinn?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-project%20garden-A7C7A1?style=flat-square&logo=githubsponsors&logoColor=white" alt="repositories" />
+    <img src="https://img.shields.io/badge/Repos-my%20project-A7C7A1?style=flat-square&logo=githubsponsors&logoColor=white" alt="repositories" />
   </a>
 </p>
 
