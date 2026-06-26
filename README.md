@@ -32,33 +32,6 @@
   </a>
 </p>
 
-### Project Garden
-
-**[mini-agent-harness](https://github.com/chohyerinn/mini-agent-harness)**  
-Evaluation harness for coding agents. It runs each task many times, compares a single agent against a Planner–Coder–Reviewer multi-agent on CLOVA, and reports pass@k, bootstrap/McNemar significance, tamper detection, and token cost — so an "improvement" only counts when the statistics back it up.
-
-`Python` `Multi-Agent` `Evaluation` `CLOVA` `Statistics`
-
-**[rag-trust-lab](https://github.com/chohyerinn/rag-trust-lab)**  
-Evaluation lab for RAG. Beyond "is the answer correct," it checks whether retrieval found the right evidence, whether the answer is grounded, and whether the pipeline follows prompt injection hidden in documents — comparing settings with the same paired-bootstrap / McNemar methodology as the harness.
-
-`Python` `RAG` `LLM-as-a-Judge` `Prompt Injection` `Evaluation`
-
-**[Customer-Inquiry-Dashboard](https://github.com/chohyerinn/Customer-Inquiry-Dashboard)**  
-AI-assisted customer inquiry workflow with PII filtering, routing, response drafting, queue visibility, and Docker-based local operation.
-
-`FastAPI` `PostgreSQL` `Redis` `Docker` `CLOVA Studio`
-
-**[MUTON](https://github.com/Ai-pre/MUTON)** · **[MUTON-Android](https://github.com/chohyerinn/MUTON-Android)**  
-Real-time multimodal conversation assistant for hearing-impaired users, combining speech, facial cues, context, backend APIs, and an Android client.
-
-`Whisper` `MediaPipe` `FastAPI` `Android`
-
-**[certainty-inference](https://github.com/chohyerinn/certainty-inference)**  
-NIKL certainty inference task solution using KLUE-RoBERTa-large, multi-seed inference, greedy ensemble selection, and calibration.
-
-`PyTorch` `Transformers` `Ensemble`
-
 ### Open Source
 
 **[punkpeye/awesome-mcp-servers#8399](https://github.com/punkpeye/awesome-mcp-servers/pull/8399)**  
