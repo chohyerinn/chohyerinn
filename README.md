@@ -17,6 +17,13 @@ I focus on **evaluating** AI systems — whether a model or agent is *actually* 
 - My workflow: build a small version, test it, write the failure down honestly, then improve it.
 - Cute on the outside, honest on the inside.
 
+### Projects
+
+**[rag-trust-lab](https://github.com/chohyerinn/rag-trust-lab)** — RAG 평가 랩: 근거성, 프롬프트 인젝션, 오염문서 노출까지. recall@3 56%→100%, 오염 노출 55%→0% (p=0.001).
+**[mini-agent-harness](https://github.com/chohyerinn/mini-agent-harness)** — 코딩 에이전트 평가 하네스: pass@k, bootstrap/McNemar 유의성, 변조 탐지, 비용.
+**[certainty-inference](https://github.com/chohyerinn/certainty-inference)** — 확실성 추론 (NIKL·말평): 공식 리더보드 **1위**.
+**[muton](https://github.com/chohyerinn/muton)** — 농인 대화보조 졸업작품 (Android 담당): LoRA 적용 후 사람평가 10.7→16.6/20.
+
 ### How I evaluate
 
 - **Repeated runs over single runs** — LLMs are non-deterministic, so I report pass@k, variance, and failure types instead of one lucky pass.
