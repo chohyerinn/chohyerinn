@@ -24,20 +24,11 @@ I focus on **evaluating** AI systems — whether a model or agent is *actually* 
 - **Cost as a first-class metric** — marginal tokens per additional solved task, because "better" is rarely free.
 - **Failure & trust** — grounding, prompt-injection following, poisoned-document exposure, and tamper detection.
 
-### Selected work
-
-- **[mini-agent-harness](https://github.com/chohyerinn/mini-agent-harness)** — evaluation harness for coding agents: pass@k, paired bootstrap / McNemar significance, tamper detection, cost per solve.
-- **[rag-trust-lab](https://github.com/chohyerinn/rag-trust-lab)** — RAG trust & regression lab: retrieval recall, grounding, prompt-injection, poisoned-doc exposure. Shares the same significance methodology as the harness.
-- **[Customer-Inquiry-Dashboard](https://github.com/chohyerinn/Customer-Inquiry-Dashboard)** — privacy-aware support workflow: PII masking before the LLM call, fallback over hard failure, Redis-cached responses, Docker Compose.
-
 ### Links
 
 <p>
   <a href="mailto:chohyerinn03@gmail.com">
     <img src="https://img.shields.io/badge/Email-chohyerinn03%40gmail.com-F4A7B9?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://www.linkedin.com/in/hyerin-cho-659b20399/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hyerin%20Cho-D58BB7?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://github.com/chohyerinn">
     <img src="https://img.shields.io/badge/GitHub-chohyerinn-9BB7D4?style=flat-square&logo=github&logoColor=white" alt="github" />
