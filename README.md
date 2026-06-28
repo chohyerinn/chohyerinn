@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&duration=1&pause=100000&color=D58BB7&center=true&vCenter=true&width=720&lines=Hi,+I'm+Hyerin.+I+make+AI+you+can+measure+and+trust." alt="Hi, I'm Hyerin." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&duration=1&pause=100000&color=D58BB7&center=true&vCenter=true&width=560&lines=Welcome+to+Hyerin's+GitHub" alt="Welcome to Hyerin's GitHub" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&duration=1&pause=100000&color=8AA7D6&center=true&vCenter=true&width=520&lines=AI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%89%EA%B0%80%28eval%29%EC%97%90%20%EA%B4%80%EC%8B%AC%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="AI 시스템 평가에 관심 있습니다" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&duration=1&pause=100000&color=8AA7D6&center=true&vCenter=true&width=600&lines=AI+Evaluation+%7C+LLM/RAG+%7C+Agent+Harness" alt="AI Evaluation | LLM/RAG | Agent Harness" />
 
   <p>
     <code>Gachon University · AI</code>
-    <code>Seoul / Remote</code>
-    <code>Open to AI/ML internship &amp; new-grad roles</code>
   </p>
 </div>
 
@@ -19,16 +17,10 @@
 ### Open Source
 - [punkpeye/awesome-mcp-servers#8399](https://github.com/punkpeye/awesome-mcp-servers/pull/8399) — `filter-mcp-server` 등재 (빌드·MCP 검증·라이선스·품질 체크 통과)
 
-### Links
+### Contact
 
 <p>
   <a href="mailto:chohyerinn03@gmail.com">
     <img src="https://img.shields.io/badge/Email-chohyerinn03%40gmail.com-F4A7B9?style=flat-square&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://github.com/chohyerinn">
-    <img src="https://img.shields.io/badge/GitHub-chohyerinn-9BB7D4?style=flat-square&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://github.com/chohyerinn?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-my%20project-A7C7A1?style=flat-square&logo=githubsponsors&logoColor=white" alt="repositories" />
   </a>
 </p>
