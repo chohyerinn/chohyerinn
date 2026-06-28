@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=18&duration=1&pause=100000&color=D58BB7&center=true&vCenter=true&width=720&lines=Hi,+I'm+Hyerin.+I+make+AI+you+can+measure+and+trust." alt="Hi, I'm Hyerin." />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&duration=1&pause=100000&color=8AA7D6&center=true&vCenter=true&width=760&lines=AI+Evaluation+%7C+LLM/RAG+%7C+Agent+Harness+%7C+Statistical+Rigor" alt="Current focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=15&duration=1&pause=100000&color=8AA7D6&center=true&vCenter=true&width=520&lines=AI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%89%EA%B0%80%28eval%29%EC%97%90%20%EA%B4%80%EC%8B%AC%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="AI 시스템 평가에 관심 있습니다" />
 
   <p>
     <code>Gachon University · AI</code>
@@ -9,8 +9,6 @@
     <code>Open to AI/ML internship &amp; new-grad roles</code>
   </p>
 </div>
-
-가천대 AI · AI 시스템 평가(eval)에 관심 있습니다.
 
 ### Projects
 - [rag-trust-lab](https://github.com/chohyerinn/rag-trust-lab) — RAG 평가: 근거성·프롬프트 인젝션·오염문서 노출
