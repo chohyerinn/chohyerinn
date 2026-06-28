@@ -18,6 +18,9 @@
 - [certainty-inference](https://github.com/chohyerinn/certainty-inference) — 확실성 추론 (NIKL·말평) 리더보드 1위
 - [muton](https://github.com/chohyerinn/muton) — 농인 대화보조 졸업작품 (Android)
 
+### Open Source
+- [punkpeye/awesome-mcp-servers#8399](https://github.com/punkpeye/awesome-mcp-servers/pull/8399) — `filter-mcp-server` 등재 (빌드·MCP 검증·라이선스·품질 체크 통과)
+
 ### Links
 
 <p>
