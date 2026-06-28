@@ -10,19 +10,13 @@
   </p>
 </div>
 
-I focus on **evaluating** AI systems — whether a model or agent is *actually* better, by how much, and at what cost.
+가천대 AI · AI 시스템 평가(eval)에 관심 있습니다.
 
 ### Projects
-
-**[rag-trust-lab](https://github.com/chohyerinn/rag-trust-lab)** — RAG evaluation: grounding, prompt-injection, poisoned-doc exposure
-**[mini-agent-harness](https://github.com/chohyerinn/mini-agent-harness)** — evaluation harness for coding agents (pass@k, significance, cost)
-**[certainty-inference](https://github.com/chohyerinn/certainty-inference)** — certainty inference (NIKL·Malpyeong), leaderboard **1st**
-**[muton](https://github.com/chohyerinn/muton)** — real-time conversation aid for the deaf, graduation project (Android)
-
-### Open Source
-
-**[punkpeye/awesome-mcp-servers#8399](https://github.com/punkpeye/awesome-mcp-servers/pull/8399)**
-Added `filter-mcp-server` to the Data Science Tools category after passing build, MCP introspection, license, and quality checks.
+- [rag-trust-lab](https://github.com/chohyerinn/rag-trust-lab) — RAG 평가: 근거성·프롬프트 인젝션·오염문서 노출
+- [mini-agent-harness](https://github.com/chohyerinn/mini-agent-harness) — 코딩 에이전트 평가 하네스 (pass@k·유의성·비용)
+- [certainty-inference](https://github.com/chohyerinn/certainty-inference) — 확실성 추론 (NIKL·말평) 리더보드 1위
+- [muton](https://github.com/chohyerinn/muton) — 농인 대화보조 졸업작품 (Android)
 
 ### Links
 
